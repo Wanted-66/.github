@@ -20,7 +20,7 @@
 
 ### 백엔드
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,hibernate)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=aws,docker, nginx)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx)](https://skillicons.dev)    
 
 ### 프론트엔드
 [![My Skills](https://skillicons.dev/icons?i=react,netlify)](https://skillicons.dev)
