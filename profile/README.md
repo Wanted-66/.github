@@ -2,7 +2,7 @@
 
 
 ## 😎 팀 구성
-|[윤주원](https://github.com/juwon0520)|[이창의](https://github.com/changuii) |[류세민](https://github.com/kormk) | 
+|[윤주원](https://github.com/juwon0520)|[이창의](https://github.com/changuii) |[오민규](https://github.com/kormk) | 
 | :--:| :--:| :--:|
 | ![](https://avatars.githubusercontent.com/u/128710390?v=4)| ![](https://avatars.githubusercontent.com/u/122252160?v=4) | ![](https://avatars.githubusercontent.com/u/63334787?v=4) | 
 | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
